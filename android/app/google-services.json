@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1081324843336",
+    "firebase_url": "https://kvytok-flutter.firebaseio.com",
+    "project_id": "kvytok-flutter",
+    "storage_bucket": "kvytok-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081324843336:android:6d5aa58f65fce2b535037d",
+        "android_client_info": {
+          "package_name": "com.popalay.kvytok_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081324843336-kcrpde7vmomjb13q0j5qhtjouu04apbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoi_ekDGOt2Klj1QZ0efJwX9Z8Uedn5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081324843336-kcrpde7vmomjb13q0j5qhtjouu04apbl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081324843336-b2gvqvnmgmvijbm64hssnfou8g9bqr4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.popalay.kvytokflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081324843336:android:d6fb19025eeff3e535037d",
+        "android_client_info": {
+          "package_name": "com.popalay.kvytokflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081324843336-kcrpde7vmomjb13q0j5qhtjouu04apbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoi_ekDGOt2Klj1QZ0efJwX9Z8Uedn5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081324843336-kcrpde7vmomjb13q0j5qhtjouu04apbl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081324843336-b2gvqvnmgmvijbm64hssnfou8g9bqr4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.popalay.kvytokflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
